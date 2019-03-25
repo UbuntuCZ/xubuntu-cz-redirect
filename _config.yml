@@ -1,0 +1,8 @@
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+
+plugins:
+  - jekyll-redirect-from
